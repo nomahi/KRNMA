@@ -4,7 +4,7 @@
 
 ## Kenward-Roger-Type Inferences for Network Meta-Analysis
 
-An R package for implementing the Kenward-Roger-Type inferences for network meta-analysis. The ordinary ML and REML estimation can underestimate the statistical uncertainty under certain settings. The Kenward-Roger-type methods provide more accurate confidence intervals and p-values compared with the conventional methods.
+An R package for implementing the Kenward-Roger-type inferences for network meta-analysis. The ordinary ML and REML estimation can underestimate the statistical uncertainty under certain settings. The Kenward-Roger-type methods provide more accurate confidence intervals and p-values compared with the conventional methods.
 
 
 
